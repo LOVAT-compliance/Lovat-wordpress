@@ -38,7 +38,7 @@
             </label>
             <br>
             <input type="submit" class="button-primary lovat-generate-departure-country" name="save-departure-country"
-                   value="Сохранить">
+                   value="Save">
         </form>
     </div>
 
