@@ -1,6 +1,6 @@
-<p align="right">
+
 ![Alt-текст](https://github.com/LOVAT-compliance/Lovat-magento/blob/wp_api_translate/Images/logo.png)
-</p>
+
 ____
 
 # Instruction for technical integration with the LOVAT system
