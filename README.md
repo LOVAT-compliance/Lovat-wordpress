@@ -1,4 +1,6 @@
+<p align="right">
 ![Alt-текст](https://github.com/LOVAT-compliance/Lovat-magento/blob/wp_api_translate/Images/logo.png)
+</p>
 ____
 
 # Instruction for technical integration with the LOVAT system
@@ -40,6 +42,8 @@ There are two ways to install this plugin.
 
 ![](https://github.com/LOVAT-compliance/Lovat-magento/blob/wp_api_translate/Images/1.png)
 
- 8. Click the **Connect WooCommerce** button and move to the **Stores section.**
+8. Click the **Connect WooCommerce** button and move to the **Stores section.**
 
+<p align="center">
 All done!
+</p>
