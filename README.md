@@ -1,4 +1,4 @@
-![](media/image1.emf){width="2.015064523184602in" height="0.75in"}
+![Alt-текст](https://github.com/LOVAT-compliance/Lovat-magento/blob/wp_api_translate/Images/logo.png)
 
 **Instruction for technical integration with the LOVAT system**
 
