@@ -1,20 +1,20 @@
 ![Alt-текст](https://github.com/LOVAT-compliance/Lovat-magento/blob/wp_api_translate/Images/logo.png)
 ____
 
-**Instruction for technical integration with the LOVAT system**
+#Instruction for technical integration with the LOVAT system**
 
-Step 1
+##Step 1
 
 There are two ways to install this plugin.
 
-[Option 1]{.ul}
+*Option 1*
 
 1.  Install this plugin from the [WordPress Plugin
     Directory](https://wordpress.org/plugins/)
 
 2.  Or add the plugin on the website. Go to: **Plugins \> Add New**
 
-[Option 2]{.ul}
+*Option 2*
 
 1.  Follow the link
     [[https://github.com/Rozrabiaka/lovat-wp-api]{.ul}](https://github.com/Rozrabiaka/lovat-wp-api)
@@ -25,7 +25,7 @@ There are two ways to install this plugin.
 
 4.  Activate the plugin and get the access key
 
-![](media/image2.png){width="6.270138888888889in"
+![](https://github.com/LOVAT-compliance/Lovat-magento/blob/wp_api_translate/Images/3.PNG){width="6.270138888888889in"
 height="2.098378171478565in"}
 
 Step 2
