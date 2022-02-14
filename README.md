@@ -19,7 +19,7 @@ There are two ways to install this plugin.
 *Option 2*
 
 1.  Follow the link
-    [[https://github.com/Rozrabiaka/lovat-wp-api]{.ul}](https://github.com/Rozrabiaka/lovat-wp-api)
+    [https://github.com/Rozrabiaka/lovat-wp-api](https://github.com/Rozrabiaka/lovat-wp-api)
 
 2.  Download the plugin archive.
 
