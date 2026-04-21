@@ -32,7 +32,7 @@ There are two ways to install this plugin.
 ## Step 2
 
 5.  Log In in your [LOVAT
-    account](https://merchant.vatcompliance.co/login)
+    account](https://tax.lappa.org/login)
 
 6.  Go to: **Stores \> Add Stores**
 
