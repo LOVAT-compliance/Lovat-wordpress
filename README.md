@@ -3,7 +3,7 @@
 
 ____
 
-# Instruction for technical integration with the LOVAT system
+# Instruction for technical integration with the Lappa system
 
 ## Step 1
 
@@ -31,7 +31,7 @@ There are two ways to install this plugin.
 
 ## Step 2
 
-5.  Log In in your [LOVAT
+5.  Log In in your [Lappa
     account](https://tax.lappa.org/login)
 
 6.  Go to: **Stores \> Add Stores**
